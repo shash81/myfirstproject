@@ -11,6 +11,7 @@ namespace myfirstproject
         static void Main(string[] args)
         {
             Console.WriteLine("hello world");
+            Console.WriteLine("new updated");
         }
     }
 }
