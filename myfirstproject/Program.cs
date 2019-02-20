@@ -13,6 +13,7 @@ namespace myfirstproject
             Console.WriteLine("hello world");
             Console.WriteLine("new updated");
             Console.Write("adding");
+            Console.Write("enter on commit");
         }
     }
 }
