@@ -14,6 +14,7 @@ namespace myfirstproject
             Console.WriteLine("new updated");
             Console.Write("adding");
             Console.Write("enter on commit");
+            Console.Write("hello world 5");
         }
     }
 }
