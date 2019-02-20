@@ -16,6 +16,7 @@ namespace myfirstproject
             Console.Write("enter on commit");
             Console.Write("hello world 5");
             Console.Write("hello world 56");
+            Console.WriteLine("testing");
         }
     }
 }
