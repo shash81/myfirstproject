@@ -20,7 +20,7 @@ namespace myfirstproject
              Console.Write("adding");
             Console.Write("adding");
             Console.Write("adding");
-            console.log("build")
+            Console.write("21june")
             
             
             
