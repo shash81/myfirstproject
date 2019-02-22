@@ -10,20 +10,7 @@ namespace myfirstproject
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("hello world");
-            Console.WriteLine("new updated");
-            Console.Write("adding");
-            Console.Write("enter on commit");
-            Console.Write("hello world 557678678676688");
-            Console.Write("hello world 5667656756656766test");
-             Console.Write("hello world 557678678676688");
-             Console.Write("adding");
-            Console.Write("adding");
-            Console.Write("adding");
-            Console.Write("21june");
-            
-            
-            
+            Console.WriteLine("hello world from myfirst project");          
             
             
             
