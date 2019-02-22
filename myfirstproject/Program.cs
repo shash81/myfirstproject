@@ -10,7 +10,9 @@ namespace myfirstproject
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("hello world from myfirst project");          
+            Console.WriteLine("hello world from myfirst project"); 
+            Console.WriteLine("hello world updated"); 
+            
             
             
             
