@@ -12,6 +12,7 @@ namespace myfirstproject
         {
             Console.WriteLine("hello world from myfirst project"); 
             Console.WriteLine("hello world updated"); 
+            Console.WriteLine("hello world updated"); 
             
             
             
